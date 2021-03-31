@@ -1,0 +1,3 @@
+I removed all the data in 2019 since we don't need it.
+I check all the unproper null column.
+I check the Cluster.
