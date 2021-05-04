@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a782c41c-38aa-4a8c-a2d5-6358aadda574" name="Default Changelist" comment="Data Analysis" />
+    <list default="true" id="a782c41c-38aa-4a8c-a2d5-6358aadda574" name="Default Changelist" comment="Data Analysis">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/coronavirus-data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCleanning/DataCleaning.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleanning/DataCleaning.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,13 +54,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataAnalysis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataCleanning" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,6 +76,7 @@
       <recent name="C:\Users\z6825\IntellijProjects\coronavirus-data\DataAnalysis" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\z6825\IntellijProjects\coronavirus-data\DataCleanning" />
       <recent name="C:\Users\z6825\IntellijProjects\coronavirus-data\DataAnalysis" />
       <recent name="C:\Users\z6825\IntellijProjects\coronavirus-data" />
     </key>
@@ -94,7 +105,7 @@
       <workItem from="1617096742279" duration="2677000" />
       <workItem from="1617214119198" duration="1072000" />
       <workItem from="1617215207556" duration="2302000" />
-      <workItem from="1620156472367" duration="903000" />
+      <workItem from="1620156472367" duration="1490000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1617214409725</created>
@@ -131,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620156912620</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Data Analysis">
+      <created>1620157435760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620157435760</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Data Analysis">
+      <created>1620157486743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620157486743</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,10 +188,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="325" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1617215254385" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1620156914064">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1620157493665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1620156914064" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1620157493665" />
     <state x="512" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1617215350511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

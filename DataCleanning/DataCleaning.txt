@@ -1,3 +1,5 @@
 I removed all the data in 2019 since we don't need it.
-I check all the unproper null columns.
-I check the cluster for all the columns.
+
+I only keep lpep_pickup_datetime, passenger_count, tip_amount, total_amount. I deleted all other columns.
+
+I did change on the lpep_pickup_datetime so it only show months.
